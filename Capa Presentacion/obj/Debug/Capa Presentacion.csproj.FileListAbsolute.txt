@@ -1,0 +1,16 @@
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa Presentacion.csprojAssemblyReference.cache
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa_Presentacion.FormNegro.resources
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa Negocio.dll
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa AccesoDatos.dll
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa Negocio.pdb
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa AccesoDatos.pdb
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\bin\Debug\Capa AccesoDatos.dll.config
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CopyComplete
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+D:\Desktop\Porta 2\it2\Admin\Login Layered CSharp\Capa Presentacion\obj\Debug\Capa Presentacion.pdb
